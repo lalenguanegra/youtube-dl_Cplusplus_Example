@@ -6,4 +6,4 @@ sudo pip install youtube-dl --upgrade
 
 pip install --upgrade youtube-dl
 
-![DEMO](https://i.imgur.com/4PLl5Gy.mp4)
+[DEMO](https://i.imgur.com/4PLl5Gy.mp4)
